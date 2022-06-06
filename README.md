@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there!! I'm Raphael Pettinato </h1>
-<h3 align="center"> A Web Developer learning how to get better </h3>
+<h3 align="center"> A Web Developer learning and getting better </h3>
 
 <hr>
 
