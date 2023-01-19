@@ -3,7 +3,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on website projects usind ReactJS and NodeJS
+- 🔭 I’m currently working on website projects using ReactJS and NodeJS
 - 🌱 I’m currently learning more about orm!
 - 💬 Ask me about anything that you would like!
 - 📫 How to reach me: @elpettinato
