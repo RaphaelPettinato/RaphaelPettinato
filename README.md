@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NLW-Setup](https://github.com/RaphaelPettinato/NLW-Setup)
 
-- 🌱 I’m currently learning **I’m currently learning more about orm!**
+- 🌱 I’m currently learning **more about orm!**
 
 - 💬 Ask me about **react, node and SQL**
 
