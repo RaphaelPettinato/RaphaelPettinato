@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/raphael-pettinato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael-pettinato" height="30" width="40" /></a>
 <a href="https://fb.com/raphael costa pettinato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raphael costa pettinato" height="30" width="40" /></a>
-<a href="https://instagram.com/@elpettinato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@elpettinato" height="30" width="40" /></a>
+<a href="https://instagram.com/elpettinato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elpettinato" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
