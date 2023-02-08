@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raphael Costa Pettinato</h1>
 <h3 align="center">A passionate junior fullstack web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [NLW-Setup](https://github.com/RaphaelPettinato/NLW-Setup)
+- 🔭 I’m currently working on [IgniteTimer](https://github.com/RaphaelPettinato/IgniteTimer)
 
 - 🌱 I’m currently learning **more about orm!**
 
