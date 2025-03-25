@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently finishing the RocketSeat specialization course Ignite
 
-- 🌱 I’m currently learning **more about orm!**
+- 🌱 I’m currently learning **more about C#!**
 
 - 💬 Ask me about **Anything**
 
