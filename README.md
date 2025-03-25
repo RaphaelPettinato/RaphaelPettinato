@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about orm!**
 
-- 💬 Ask me about **react, node and SQL**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **raphael.petinatti@gmail.com**
 
