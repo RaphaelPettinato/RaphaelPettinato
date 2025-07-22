@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Raphael Costa Pettinato</h1>
-<h3 align="center">A passionate junior fullstack web developer from Brazil</h3>
 
 - 🔭 I’m currently working on personal projects
-
-- 🌱 I’m currently learning **more about C#!**
 
 - 💬 Ask me about **Anything**
 
