@@ -3,9 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working as a **Software Developer** in Italy, focused on PHP, .NET, and JavaScript projects.  
-- 🌱 I’m currently learning **Livewire**, and improving my knowledge of **PHP**.  
-- 💬 Ask me about **web development, backend systems**, or **API integration**  
+- 🔭 I’m currently working as a **Software Developer** in Italy.  
 - 📫 Reach me at **raphael.petinatti@gmail.com**
 
 ---
